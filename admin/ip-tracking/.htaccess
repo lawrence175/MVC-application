@@ -1,0 +1,3 @@
+<Files "ip-captured.csv">  
+  Require all denied
+</Files>
